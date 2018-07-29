@@ -34,17 +34,16 @@ android {
 	defaultConfig {
 		minSdkVersion	23
 		targetSdkVersion 28
-//		applicationId 'com.larryliang.arredecoration'
+//		applicationId 'com.larryliang.arredecorationunity'
 		ndk {
 			abiFilters 'armeabi-v7a', 'x86'
 		}
 		versionCode	1
-		versionName	'0.1'
+		versionName	'1.0'
 	}
 
 	lintOptions {
 		abortOnError false
-		disable 'MissingTranslation'
 	}
 
 	aaptOptions {

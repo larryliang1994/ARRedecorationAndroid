@@ -49,10 +49,12 @@ ADDED from /Users/larryliang/Desktop/FinalProject/Apps/AR/Android/ARRedecoration
 		ADDED from /Users/larryliang/Desktop/FinalProject/Apps/AR/Android/ARRedecorationAndroid/ARRedecorationUnity/src/main/AndroidManifest.xml:4:16-57
 	android:isGame
 		ADDED from /Users/larryliang/Desktop/FinalProject/Apps/AR/Android/ARRedecorationAndroid/ARRedecorationUnity/src/main/AndroidManifest.xml:4:125-146
-activity#com.larryliang.arredecoration.UnityPlayerActivity
+activity#com.larryliang.arredecorationunity.UnityPlayerActivity
 ADDED from /Users/larryliang/Desktop/FinalProject/Apps/AR/Android/ARRedecorationAndroid/ARRedecorationUnity/src/main/AndroidManifest.xml:5:5-11:16
 	android:screenOrientation
 		ADDED from /Users/larryliang/Desktop/FinalProject/Apps/AR/Android/ARRedecorationAndroid/ARRedecorationUnity/src/main/AndroidManifest.xml:5:48-85
+	android:process
+		ADDED from /Users/larryliang/Desktop/FinalProject/Apps/AR/Android/ARRedecorationAndroid/ARRedecorationUnity/src/main/AndroidManifest.xml:5:336-366
 	android:label
 		ADDED from /Users/larryliang/Desktop/FinalProject/Apps/AR/Android/ARRedecorationAndroid/ARRedecorationUnity/src/main/AndroidManifest.xml:5:15-47
 	android:launchMode
@@ -62,7 +64,17 @@ ADDED from /Users/larryliang/Desktop/FinalProject/Apps/AR/Android/ARRedecoration
 	android:configChanges
 		ADDED from /Users/larryliang/Desktop/FinalProject/Apps/AR/Android/ARRedecorationAndroid/ARRedecorationUnity/src/main/AndroidManifest.xml:5:118-299
 	android:name
-		ADDED from /Users/larryliang/Desktop/FinalProject/Apps/AR/Android/ARRedecorationAndroid/ARRedecorationUnity/src/main/AndroidManifest.xml:5:336-400
+		ADDED from /Users/larryliang/Desktop/FinalProject/Apps/AR/Android/ARRedecorationAndroid/ARRedecorationUnity/src/main/AndroidManifest.xml:5:367-436
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/larryliang/Desktop/FinalProject/Apps/AR/Android/ARRedecorationAndroid/ARRedecorationUnity/src/main/AndroidManifest.xml:6:7-9:23
+action#android.intent.action.MAIN
+ADDED from /Users/larryliang/Desktop/FinalProject/Apps/AR/Android/ARRedecorationAndroid/ARRedecorationUnity/src/main/AndroidManifest.xml:7:9-61
+	android:name
+		ADDED from /Users/larryliang/Desktop/FinalProject/Apps/AR/Android/ARRedecorationAndroid/ARRedecorationUnity/src/main/AndroidManifest.xml:7:17-58
+category#android.intent.category.LAUNCHER
+ADDED from /Users/larryliang/Desktop/FinalProject/Apps/AR/Android/ARRedecorationAndroid/ARRedecorationUnity/src/main/AndroidManifest.xml:8:9-69
+	android:name
+		ADDED from /Users/larryliang/Desktop/FinalProject/Apps/AR/Android/ARRedecorationAndroid/ARRedecorationUnity/src/main/AndroidManifest.xml:8:19-66
 meta-data#unityplayer.UnityActivity
 ADDED from /Users/larryliang/Desktop/FinalProject/Apps/AR/Android/ARRedecorationAndroid/ARRedecorationUnity/src/main/AndroidManifest.xml:10:7-82
 	android:value

@@ -5,6 +5,8 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
 
+import com.larryliang.arredecorationunity.UnityPlayerActivity;
+
 public class UnityActivity extends Activity {
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {

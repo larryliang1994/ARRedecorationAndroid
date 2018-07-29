@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/larryliang/Desktop/FinalProject/Apps/AR/Android/ARRedecorationUnity/build/intermediates/res/merged/debug/drawable-mdpi_app_icon.png.flat",
+        "source": "/Users/larryliang/Desktop/FinalProject/Apps/AR/Android/ARRedecorationUnity/src/main/res/drawable-mdpi/app_icon.png"
+    },
+    {
+        "merged": "/Users/larryliang/Desktop/FinalProject/Apps/AR/Android/ARRedecorationUnity/build/intermediates/res/merged/debug/drawable-xhdpi_app_banner.png.flat",
+        "source": "/Users/larryliang/Desktop/FinalProject/Apps/AR/Android/ARRedecorationUnity/src/main/res/drawable-xhdpi/app_banner.png"
+    }
+]

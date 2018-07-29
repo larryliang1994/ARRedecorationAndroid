@@ -7,40 +7,39 @@
     android:orientation="vertical"
     tools:context=".MainActivity">
 
-    <RelativeLayout
+    <ImageView
+        android:id="@+id/imageView"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:padding="48dp">
-
-        <ImageView
-            android:layout_width="match_parent"
-            android:layout_height="270dp"
-            android:layout_centerHorizontal="true"
-            android:src="@drawable/ic_photo"
-            android:layout_marginLeft="48dp"
-            android:layout_marginRight="48dp"
-            android:scaleType="fitCenter"/>
-
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_centerHorizontal="true"
-            android:text="Click to create hanging model"
-            android:textSize="16sp"/>
-
-    </RelativeLayout>
+        android:layout_height="270dp"
+        android:layout_centerHorizontal="true"
+        android:scaleType="fitCenter"
+        android:layout_margin="16dp"
+        android:src="@drawable/ic_photo" />
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/create_model_button"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginLeft="16dp"
         android:layout_marginRight="16dp"
+        android:layout_marginBottom="16dp"
         android:background="@drawable/round_button"
-        android:clickable="false"
-        android:text="Procees to Redecoration"
-        android:textColor="#ffffff"
+        android:text="Create Hanging Model"
         android:textAllCaps="false"
+        android:textColor="#ffffff"
+        android:textSize="16sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/proceed_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:background="@drawable/round_button_grey"
+        android:text="Proceed to Redecoration"
+        android:textAllCaps="false"
+        android:textColor="#ffffff"
         android:textSize="16sp"
         android:textStyle="bold" />
 
